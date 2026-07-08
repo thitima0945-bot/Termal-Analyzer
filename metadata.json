@@ -1,0 +1,6 @@
+{
+  "name": "Transformer Inspection Report",
+  "description": "ระบบรายงานผลการตรวจสอบหม้อแปลงไฟฟ้า บันทึกข้อมูลลง Google Sheets และอัปโหลดภาพลง Google Drive",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
